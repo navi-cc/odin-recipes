@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+
+h1 {
+    color: rgb(64, 140, 255);
+}
+
+.recipes a {
+    display: block;
+    color: rgb(64, 140, 255);
+}
+
+.center {
+    text-align: center;
+}
+
+
+
