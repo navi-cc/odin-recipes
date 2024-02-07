@@ -1,19 +1,51 @@
 body {
-    background-color: rgb(29, 29, 29);
+    background-color: rgb(34, 34, 34);
 }
 
 h1 {
-    color: rgb(64, 140, 255);
-}
-
-.recipes a {
-    display: block;
-    color: rgb(64, 140, 255);
-}
-
-.center {
+    color: rgb(32, 206, 47);
     text-align: center;
 }
+
+a { 
+    color: rgb(32, 206, 47);
+    text-decoration: none;  
+    
+}
+
+.container {
+
+    height: auto;
+    width: 40%;
+
+
+    margin: 0 auto;
+    padding: 10em;
+    border: solid 4px rgb(209, 209, 209);
+    border-radius: 2em;
+
+    background-color: rgb(34, 34, 34);;
+
+   
+    box-sizing: border-box;
+
+}
+
+
+.box {
+
+    text-align: center;
+
+    margin: 10px;
+    padding: 20px;
+
+    border: solid 2px rgb(209, 209, 209);
+    border-radius: 10px;
+
+}
+
+
+
 
 
 
